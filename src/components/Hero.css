@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-description {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  max-width: 40ch;
+}
+
+.hero-cta {
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+}
