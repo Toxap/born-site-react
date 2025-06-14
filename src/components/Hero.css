@@ -20,7 +20,7 @@
 .hero-title {
   font-size: 7rem;
   font-family: 'TekturBold', serif;
-  background-color: rgba(167, 55, 0, 0.5);
+  background-color: rgba(232, 0, 0, 0.5);
   backdrop-filter: blur(5px);
   padding: 0.25em 0.5em;
   color: #fff;
@@ -29,7 +29,7 @@
 .hero-title-2 {
   font-size: 7rem;
   font-family: 'TekturBold', serif;
-  background-color: rgba(167, 55, 0, 0.5);
+  background-color: rgba(232, 0, 0, 0.5);
   backdrop-filter: blur(5px);
   padding: 0.25em 0.5em;
   color: #fff;
@@ -38,23 +38,24 @@
 }
 
 .hero-btn-wrapper {
-  margin-left: 12%;
+  margin-left: 5%;
   margin-top: 1rem;
 }
 
 .hero-btn {
   display: inline-block;
   padding: 0.75rem 2rem;
-  background-color: rgba(167, 55, 0, 0.7);
+  background-color: rgb(232, 0, 0);
   color: #fff;
   font-family: 'TekturBold', serif;
+  font-size: 3rem;
   text-decoration: none;
-  border-radius: 4px;
+  border-radius: 10px;
   transition: background-color 0.3s ease;
 }
 
 .hero-btn:hover {
-  background-color: rgba(167, 55, 0, 0.9);
+  background-color: rgb(232, 0, 0, 0.7);
 }
 
 .hero-description {
