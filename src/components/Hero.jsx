@@ -1,4 +1,5 @@
 import './Hero.css'
+import DecryptedText from './DecryptedText.jsx'
 
 export default function Hero() {
   return (
@@ -11,8 +12,12 @@ export default function Hero() {
         muted
         playsInline
       />
-      <h1 className="hero-title">COURSE</h1>
-      <h1 className="hero-title-2">BORN</h1>
+      <h1 className="hero-title">
+        <DecryptedText text="COURSE" />
+      </h1>
+      <h1 className="hero-title-2">
+        <DecryptedText text="BORN" />
+      </h1>
     </section>
   )
 }
