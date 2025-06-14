@@ -37,6 +37,26 @@
   margin-top: -4.88%;
 }
 
+.hero-btn-wrapper {
+  margin-left: 12%;
+  margin-top: 1rem;
+}
+
+.hero-btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: rgba(167, 55, 0, 0.7);
+  color: #fff;
+  font-family: 'TekturBold', serif;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.hero-btn:hover {
+  background-color: rgba(167, 55, 0, 0.9);
+}
+
 .hero-description {
   font-size: 1.25rem;
   margin-bottom: 2rem;
