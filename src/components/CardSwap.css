@@ -1,6 +1,6 @@
 .card-swap-container {
   position: absolute;
-  bottom: 0;
+  bottom: 17%;
   right: 0;
   transform: translate(5%, 20%);
   transform-origin: bottom right;

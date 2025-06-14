@@ -1,4 +1,12 @@
+@font-face {
+  font-family: 'InterRegular';
+  src: url('http://cdn.bornsite.ru/fonts/Inter_28pt-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .about {
+  background-color: #f7f4e9;
   width: 100%;
   min-height: 60vh;
   position: relative;
@@ -6,17 +14,21 @@
 }
 
 .about-title {
-  font-size: 2.5rem;
-  margin: 0 auto 1rem;
-  text-align: center;
+  font-size: 6rem;
+  color: rgba(232, 0, 0);
+  text-align: left;
+  margin-left: 5%;
+  margin-bottom: 1%;
   font-family: 'TekturBold', serif;
 }
 
 .about-description {
-  text-align: center;
-  font-size: 1.25rem;
-  max-width: 60ch;
-  margin: 0 auto 2rem;
+  text-align: left;
+  font-family: 'InterRegular', serif;
+  margin-left: 5%;
+  margin-top: 1%;
+  font-size: 180%;
+  max-width: 50%;
 }
 
 .about-card {
