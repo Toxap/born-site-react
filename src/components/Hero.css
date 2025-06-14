@@ -19,20 +19,22 @@
 
 .hero-title {
   font-size: 7rem;
-  font-family: 'TekturBold';
-  background-color: #a73700;
+  font-family: 'TekturBold', serif;
+  background-color: rgba(167, 55, 0, 0.5);
+  backdrop-filter: blur(5px);
   padding: 0.25em 0.5em;
   color: #fff;
   margin-left: 1%;
 }
 .hero-title-2 {
   font-size: 7rem;
-  font-family: 'TekturBold';
-  background-color: #a73700;
+  font-family: 'TekturBold', serif;
+  background-color: rgba(167, 55, 0, 0.5);
+  backdrop-filter: blur(5px);
   padding: 0.25em 0.5em;
   color: #fff;
   margin-left: 12%;
-  margin-top: -5%;
+  margin-top: -4.88%;
 }
 
 .hero-description {
