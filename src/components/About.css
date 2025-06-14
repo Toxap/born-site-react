@@ -7,7 +7,9 @@
 
 .about-title {
   font-size: 2.5rem;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem;
+  text-align: center;
+  font-family: 'TekturBold', serif;
 }
 
 .about-card {
