@@ -1,0 +1,28 @@
+.about {
+  width: 100%;
+  min-height: 60vh;
+  position: relative;
+  padding: 2rem 4rem;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.about-card {
+  background-size: cover;
+  background-position: center;
+}
+
+.about-card-1 {
+  background-image: url('https://placekitten.com/400/200');
+}
+
+.about-card-2 {
+  background-image: url('https://placekitten.com/401/200');
+}
+
+.about-card-3 {
+  background-image: url('https://placekitten.com/402/200');
+}
