@@ -11,7 +11,7 @@ export default function Hero() {
         muted
         playsInline
       />
-      <h1 className="hero-title">Welcome to Born Site</h1>
+      <h1 className="hero-title">COURSEBORN</h1>
       <p className="hero-description">Building modern applications with React and Vite.</p>
       <button className="hero-cta">Get Started</button>
     </section>

@@ -3,16 +3,20 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  padding: 4rem 1rem;
-  text-align: center;
+  padding: 4rem;
+  text-align: left;
   min-height: 100vh;
 }
 
 .hero-title {
   font-size: 3rem;
   margin-bottom: 1rem;
+  background-color: #800020;
+  padding: 0.25em 0.5em;
+  border-radius: 0.25em;
+  color: #fff;
 }
 
 .hero-description {
