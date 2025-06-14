@@ -10,7 +10,7 @@ export default function Courses() {
   ]
 
   return (
-    <section className="courses">
+    <section className="courses" id="courses">
       <h2 className="courses-title">Наши курсы</h2>
       <div className="courses-list">
         {courses.map((course) => (
