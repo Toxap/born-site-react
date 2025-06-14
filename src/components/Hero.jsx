@@ -20,7 +20,7 @@ export default function Hero() {
         <DecryptedText text="BORN" />
       </h1>
       <Magnet wrapperClassName="hero-btn-wrapper" innerClassName="hero-btn-inner">
-        <a href="#courses" className="hero-btn">Перейти к курсам</a>
+        <a href="#courses" className="hero-btn">Перейти к курсам →</a>
       </Magnet>
     </section>
   )

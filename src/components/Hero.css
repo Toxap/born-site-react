@@ -45,17 +45,12 @@
 .hero-btn {
   display: inline-block;
   padding: 0.75rem 2rem;
-  background-color: rgb(232, 0, 0);
   color: #fff;
   font-family: 'TekturBold', serif;
   font-size: 3rem;
   text-decoration: none;
   border-radius: 10px;
   transition: background-color 0.3s ease;
-}
-
-.hero-btn:hover {
-  background-color: rgb(232, 0, 0, 0.7);
 }
 
 .hero-description {
