@@ -11,11 +11,8 @@ export default function Hero() {
         muted
         playsInline
       />
-      <h1 className="hero-title">
-        COURSE
-        <br />
-        BORN
-      </h1>
+      <h1 className="hero-title">COURSE</h1>
+      <h1 className="hero-title-2">BORN</h1>
     </section>
   )
 }
