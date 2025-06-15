@@ -6,7 +6,7 @@
 }
 
 .about {
-  background-color: #f7f4e9;
+  background-color: #111120;
   width: 100%;
   min-height: 60vh;
   position: relative;
@@ -15,7 +15,7 @@
 
 .about-title {
   font-size: 6rem;
-  color: rgba(232, 0, 0);
+  color: #850608;
   text-align: left;
   margin-left: 5%;
   margin-bottom: 1%;
@@ -25,6 +25,7 @@
 .about-description {
   text-align: left;
   font-family: 'InterRegular', serif;
+  color: rgb(255, 255, 255);
   margin-left: 5%;
   margin-top: 1%;
   font-size: 180%;

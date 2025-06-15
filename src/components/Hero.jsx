@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="hero">
       <video
         className="hero-video"
-        src="http://cdn.bornsite.ru/static/backAI.mp4"
+        src="http://cdn.bornsite.ru/static/backAInew.mp4"
         autoPlay
         loop
         muted
