@@ -13,7 +13,7 @@ export default function About() {
         пространство, где каждый может раскрыть свой потенциал и получить 
         поддержку опытных наставников.
       </p>
-      <CardSwap width={800} height={500} cardDistance={50} verticalDistance={60}>
+      <CardSwap width={700} height={400} cardDistance={50} verticalDistance={60}>
         <Card customClass="about-card about-card-1" />
         <Card customClass="about-card about-card-2" />
         <Card customClass="about-card about-card-3" />
