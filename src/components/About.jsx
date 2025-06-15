@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section className="about" id="about">
       <ParticleBackground />
-      <h2 className="about-title">О нашей школе</h2>
+      <h2 className="about-title">О наших курсах</h2>
       <p className="about-description">
         Наша школа программирования предоставляет современное образование, 
         основанное на практике и работе с актуальными технологиями. Мы создаём

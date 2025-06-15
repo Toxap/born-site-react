@@ -1,8 +1,8 @@
 import { useMemo } from 'react'
 import './ParticleBackground.css'
 
-const symbols = ['ᚱ', 'ᛟ', 'ᛞ', 'ᛁ', '{', '}', '<', '>', '0', '1', ';']
-const colors = ['#ffd700', '#ffa500', '#adff2f']
+const symbols = ['ПИДОР', '✵', '✵', '✵', '✵️', '✵', '✵', '✵', 'Х', 'У', 'Й']
+const colors = ['#F59C47', '#F56047', '#F5CB47']
 
 export default function ParticleBackground({ count = 30 }) {
 
