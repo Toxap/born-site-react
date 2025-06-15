@@ -1,12 +1,15 @@
 import CardSwap, { Card } from './CardSwap.jsx'
 import ParticleBackground from './ParticleBackground.jsx'
+import ScrollFloat from './ScrollFloat.jsx'
 import './About.css'
 
 export default function About() {
   return (
     <section className="about" id="about">
       <ParticleBackground />
-      <h2 className="about-title">О наших курсах</h2>
+      <ScrollFloat containerClassName="about-title">
+        О наших курсах
+      </ScrollFloat>
       <p className="about-description">
         Наша школа программирования предоставляет современное образование, 
         основанное на практике и работе с актуальными технологиями. Мы создаём
