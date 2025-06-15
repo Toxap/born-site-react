@@ -11,6 +11,7 @@
   min-height: 60vh;
   position: relative;
   padding: 0 4rem;
+  overflow: hidden;
 }
 
 .about-title {
