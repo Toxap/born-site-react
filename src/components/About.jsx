@@ -1,9 +1,11 @@
 import CardSwap, { Card } from './CardSwap.jsx'
+import ParticleBackground from './ParticleBackground.jsx'
 import './About.css'
 
 export default function About() {
   return (
     <section className="about" id="about">
+      <ParticleBackground />
       <h2 className="about-title">О нашей школе</h2>
       <p className="about-description">
         Наша школа программирования предоставляет современное образование, 
